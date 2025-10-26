@@ -131,10 +131,6 @@ This is **Week 2** of my Computer Engineering + AI/ML learning series:
 - **GitHub**: https://github.com/KyPython
 - **Email**: Kyjahntsmith@gmail.com
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - Inspired by real AI hardware design challenges at NVIDIA, Google, and AMD
