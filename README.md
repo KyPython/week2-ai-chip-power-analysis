@@ -106,7 +106,6 @@ All architectures tested with three cooling solutions:
 week2-ai-chip-power-analysis/
 ├── ai_chip_power_analysis.py    # Main analysis program
 ├── README.md                     # This file
-└── LICENSE                       # MIT License
 ```
 
 ## 🔮 Future Enhancements
